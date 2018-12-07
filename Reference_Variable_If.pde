@@ -16,7 +16,7 @@ void setup (){
 }
 
 void draw() {
-  frameRate(4160);
+  frameRate(40);
   background(0,0,200);
   fill(195,180,130);
   quad(0,260,0,300,400,300,400,260); 
